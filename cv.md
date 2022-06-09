@@ -31,6 +31,10 @@ public class Kata
 ***
 _Humanitarian, Modern Humanitarian Institute, faculty of Management, Bachelor's degree._
 
+### Experience:
+***
+_in development_
+
 ### English:
 ***
 _I studied at school, had experience of staying in English-speaking countries, I write and read with a dictionary, I rate at the A1-A2 level. Actively studying._
