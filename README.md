@@ -1,1 +1,1 @@
-https://github.com/PSlava2022/rsschool-cv/
+https://PSlava2022.github.io/rsschool-cv/
